@@ -1,4 +1,5 @@
-# 💈Barbearia #Alura
+<h1 align="center">💈Barbearia #Alura </h1>
+<h4 align="center"> Status: 🚀 Finished </h4>
 
 ## 💻 Projeto
 Projeto da aula: HTML5 e CSS3 parte 1 "crie uma página da Web"
@@ -18,3 +19,5 @@ Projeto da aula: HTML5 e CSS3 parte 1 "crie uma página da Web"
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
+
+<h3 align="center">Developed by Bruno Oliveira ☕</h3>
