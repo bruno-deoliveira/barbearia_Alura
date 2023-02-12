@@ -1,6 +1,8 @@
 <h1 align="center">💈Barbearia #Alura </h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
+<img src="https://user-images.githubusercontent.com/109918729/218344505-08a5fa91-0323-43d1-a0db-1851d2506a13.png"/>
+
 ## 💻 Projeto-parte 1
 ### 💡 Projeto da aula: HTML5 e CSS3 parte 1 "crie uma página da Web"
 - Aprenda o que é o HTML e o CSS
